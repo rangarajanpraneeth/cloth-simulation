@@ -1,1 +1,1 @@
-* [Demo](https://cloth-simulation.pages.dev/)
+[Demo](https://cloth-simulation.pages.dev/)
