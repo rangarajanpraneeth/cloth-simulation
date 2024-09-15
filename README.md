@@ -1,3 +1,1 @@
-Left click: grab cloth
-
-Right click: cut cloth
+*[Demo](https://cloth-simulation.pages.dev/)
